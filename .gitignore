@@ -1,0 +1,8 @@
+# IDE
+.vscode/
+.kiro/
+.agents/
+
+# Videos
+src/video/
+*.mp4
