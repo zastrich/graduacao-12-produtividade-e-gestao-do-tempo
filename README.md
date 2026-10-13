@@ -1,4 +1,9 @@
-# **Meu Sistema Operacional Pessoal — Zas Organizer sobre GitCompany AI**
+
+# **Graduação IA e Automação Digital - 2º Semestre**
+
+## _Trabalho para a disciplina de Produtividade e Gestão do Tempo_
+
+### **Meu Sistema Operacional Pessoal — Zas Organizer sobre GitCompany AI**
 
 Um sistema operacional pessoal (POS) que coordena tempo, comunicação e produtividade por meio de agentes de IA auditáveis. O projeto une duas camadas: a biblioteca open-source **GitCompany AI** (orquestração *Business-as-a-Code*) e o case **Zas Organizer**, um assistente pessoal com cinco agentes integrados a Google Calendar, Gmail, Notion e Playwright, com acompanhamento no GitHub Projects v2.
 
